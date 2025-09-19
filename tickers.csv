@@ -1,0 +1,401 @@
+ticker,name,market,locale,primary_exchange,type,active,currency_name,cik,composite_figi,last_updated_utc
+A,Agilent Technologies Inc.,stocks,us,XNYS,CS,True,usd,0001090872,BBG000C2V3D6,2025-09-18T06:05:34.656745664Z
+AA,Alcoa Corporation,stocks,us,XNYS,CS,True,usd,0001675149,BBG00B3T3HD3,2025-09-18T06:05:34.656746345Z
+AAA,Alternative Access First Priority CLO Bond ETF,stocks,us,ARCX,ETF,True,usd,0001776878,BBG01B0JRCS6,2025-09-18T06:05:34.656746425Z
+AAAA,Amplius Aggressive Asset Allocation ETF,stocks,us,BATS,ETF,True,usd,,BBG01W275XX6,2025-09-18T06:05:34.656746586Z
+AAAU,Goldman Sachs Physical Gold ETF Shares,stocks,us,BATS,ETF,True,usd,0001708646,BBG00LPXX872,2025-09-18T06:05:34.656746666Z
+AACB,Artius II Acquisition Inc. Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0002034334,,2025-09-18T06:05:34.656746746Z
+AACBR,Artius II Acquisition Inc. Rights,stocks,us,XNAS,RIGHT,True,usd,0002034334,,2025-09-18T06:05:34.656746826Z
+AACBU,Artius II Acquisition Inc. Units,stocks,us,XNAS,UNIT,True,usd,0002034334,,2025-09-18T06:05:34.656746906Z
+AACG,ATA Creativity Global American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001420529,BBG000V2S3P6,2025-09-18T06:05:34.656747247Z
+AACI,Armada Acquisition Corp. II Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0002044009,,2025-09-18T06:05:34.656747337Z
+AACIU,Armada Acquisition Corp. II Units,stocks,us,XNAS,UNIT,True,usd,0002044009,,2025-09-18T06:05:34.656747487Z
+AACIW,Armada Acquisition Corp. II Warrant,stocks,us,XNAS,WARRANT,True,usd,0002044009,,2025-09-18T06:05:34.656747567Z
+AACT,Ares Acquisition Corporation II,stocks,us,XNYS,CS,True,usd,0001853138,,2025-09-18T06:05:34.656747648Z
+AACT.U,"Ares Acquisition Corporation II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",stocks,us,XNYS,UNIT,True,usd,0001853138,,2025-09-18T06:05:34.656747728Z
+AACT.WS,"Ares Acquisition Corporation II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",stocks,us,XNYS,WARRANT,True,usd,0001853138,,2025-09-18T06:05:34.656747808Z
+AADR,AdvisorShares Dorsey Wright ADR ETF,stocks,us,XNAS,ETF,True,usd,0001408970,BBG000BDYRW6,2025-09-18T06:05:34.656747888Z
+AAL,American Airlines Group Inc.,stocks,us,XNAS,CS,True,usd,0000006201,BBG005P7Q881,2025-09-18T06:05:34.656748108Z
+AALG,Leverage Shares 2X Long AAL Daily ETF,stocks,us,XNAS,ETF,True,usd,0001976322,BBG01VH49P35,2025-09-18T06:05:34.656748189Z
+AAM,AA Mission Acquisition Corp.,stocks,us,XNYS,CS,True,usd,0002012964,,2025-09-18T06:05:34.656748269Z
+AAM.U,"AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one-half of one redeemable warrant",stocks,us,XNYS,UNIT,True,usd,0002012964,,2025-09-18T06:05:34.656748349Z
+AAM.WS,"AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share",stocks,us,XNYS,WARRANT,True,usd,0002012964,,2025-09-18T06:05:34.656748429Z
+AAME,Atlantic American Corp,stocks,us,XNAS,CS,True,usd,0000008177,BBG000B9XB24,2025-09-18T06:05:34.656748509Z
+AAMI,Acadian Asset Management Inc.,stocks,us,XNYS,CS,True,usd,0001748824,BBG00P2HLNY3,2025-09-18T06:05:34.656748589Z
+AAOI,"Applied Optoelectronics, Inc.",stocks,us,XNAS,CS,True,usd,0001158114,BBG000D6VW15,2025-09-18T06:05:34.65674867Z
+AAON,Aaon Inc,stocks,us,XNAS,CS,True,usd,0000824142,BBG000C2LZP3,2025-09-18T06:05:34.65674904Z
+AAP,ADVANCE AUTO PARTS INC,stocks,us,XNYS,CS,True,usd,0001158449,BBG000F7RCJ1,2025-09-18T06:05:34.65674913Z
+AAPB,GraniteShares ETF Trust GraniteShares 2x Long AAPL Daily ETF,stocks,us,XNAS,ETF,True,usd,0001689873,BBG0193F21N2,2025-09-18T06:05:34.656749251Z
+AAPD,Direxion Daily AAPL Bear 1X Shares,stocks,us,XNAS,ETF,True,usd,,BBG0193YGJ57,2025-09-18T06:05:34.656749341Z
+AAPG,Ascentage Pharma Group International American Depository Shares,stocks,us,XNAS,ADRC,True,usd,0002023311,BBG01RJXM9C9,2025-09-18T06:05:34.656749421Z
+AAPL,Apple Inc.,stocks,us,XNAS,CS,True,usd,0000320193,BBG000B9XRY4,2025-09-18T06:05:34.656749501Z
+AAPR,Innovator Equity Defined Protection ETF - 2 Yr to April 2026,stocks,us,BATS,ETF,True,usd,0001415726,BBG01M698CQ1,2025-09-18T06:05:34.656749581Z
+AAPU,Direxion Shares ETF Trust Direxion Daily AAPL Bull 2X Shares,stocks,us,XNAS,ETF,True,usd,,BBG0193YBZ92,2025-09-18T06:05:34.656749661Z
+AAPW,Roundhill AAPL WeeklyPay ETF,stocks,us,BATS,ETF,True,usd,,BBG01SCFVRC3,2025-09-18T06:05:34.656749812Z
+AAPX,T-Rex 2X Long Apple Daily Target ETF,stocks,us,BATS,ETF,True,usd,,BBG01KY72SD3,2025-09-18T06:05:34.656749892Z
+AAPY,Kurv Yield Premium Strategy Apple (AAPL) ETF,stocks,us,BATS,ETF,True,usd,0001848758,BBG01QY0GMH9,2025-09-18T06:05:34.656749972Z
+AARD,"Aardvark Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001774857,BBG01223DLB2,2025-09-18T06:05:34.656750052Z
+AAT,"AMERICAN ASSETS TRUST, INC.",stocks,us,XNYS,CS,True,usd,0001500217,BBG00161BCR0,2025-09-18T06:05:34.656750152Z
+AAUC,Allied Gold Corporation,stocks,us,XNYS,CS,True,usd,0001993344,BBG01K0WWT59,2025-09-18T06:05:34.656750243Z
+AAUS,Alpha Architect US Equity ETF,stocks,us,XNAS,ETF,True,usd,,BBG01W26H9C1,2025-09-18T06:05:34.656750323Z
+AAVM,EA Series Trust Alpha Architect Global Factor Equity ETF,stocks,us,XNAS,ETF,True,usd,,BBG00GM1DQV1,2025-09-18T06:05:34.656750403Z
+AAXJ,iShares MSCI All Country Asia ex Japan ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG000G6GXC5,2025-09-18T06:05:34.656750663Z
+AB,"AllianceBernstein Holding, L.P.",stocks,us,XNYS,CS,True,usd,0000825313,BBG000B9WM03,2025-09-18T06:05:34.656750733Z
+ABAT,American Battery Technology Company Common Stock,stocks,us,XNAS,CS,True,usd,0001576873,BBG004M1KJN5,2025-09-18T06:05:34.656750864Z
+ABBV,ABBVIE INC.,stocks,us,XNYS,CS,True,usd,0001551152,BBG0025Y4RY4,2025-09-18T06:05:34.656750944Z
+ABCB,Ameris Bancorp,stocks,us,XNYS,CS,True,usd,0000351569,BBG000CDY3H5,2025-09-18T06:05:34.656751024Z
+ABCL,AbCellera Biologics Inc. Common Shares,stocks,us,XNAS,CS,True,usd,0001703057,BBG00LLW2MF2,2025-09-18T06:05:34.656751114Z
+ABCS,Alpha Blue Capital US Small-Mid Cap Dynamic ETF,stocks,us,XNAS,ETF,True,usd,,BBG01KMFQRF2,2025-09-18T06:05:34.656751194Z
+ABEO,Abeona Therapeutics Inc. Common Stock,stocks,us,XNAS,CS,True,usd,0000318306,BBG000DT5D52,2025-09-18T06:05:34.656751275Z
+ABEQ,Absolute Select Value ETF,stocks,us,ARCX,ETF,True,usd,0001199046,BBG00RHHGQY2,2025-09-18T06:05:34.656751355Z
+ABEV,AMBEV S.A.,stocks,us,XNYS,ADRC,True,usd,0001565025,BBG000BN5VZ4,2025-09-18T06:05:34.656751435Z
+ABFL,Abacus FCF Leaders ETF,stocks,us,BATS,ETF,True,usd,,BBG00DW3P010,2025-09-18T06:05:34.656751515Z
+ABG,"Asbury Automotive Group, Inc.",stocks,us,XNYS,CS,True,usd,0001144980,BBG000BKDWB5,2025-09-18T06:05:34.656751595Z
+ABI,VictoryShares Pioneer Asset-Based Income ETF,stocks,us,XNAS,ETF,True,usd,,BBG01VCKWDB6,2025-09-18T06:05:34.656751675Z
+ABIG,Argent Large Cap ETF,stocks,us,XNAS,ETF,True,usd,,BBG01TCJ3701,2025-09-18T06:05:34.656751755Z
+ABL,"Abacus Global Management, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,0001814287,BBG00VY1KB95,2025-09-18T06:05:34.656751836Z
+ABLD,Abacus FCF Real Assets Leaders ETF,stocks,us,BATS,ETF,True,usd,,BBG0141PBK24,2025-09-18T06:05:34.656751916Z
+ABLG,Abacus FCF International Leaders ETF,stocks,us,BATS,ETF,True,usd,,BBG00H1J5D96,2025-09-18T06:05:34.656752427Z
+ABLLL,"Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",stocks,us,XNAS,CS,True,usd,0001814287,,2025-09-18T06:05:34.656752507Z
+ABLS,Abacus FCF Small Cap Leaders ETF,stocks,us,BATS,ETF,True,usd,,BBG01SCGBTV8,2025-09-18T06:05:34.656752677Z
+ABLV,Able View Global Inc. Class B Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001957489,,2025-09-18T06:05:34.656752757Z
+ABLVW,Able View Global Inc. Warrant,stocks,us,XNAS,WARRANT,True,usd,0001957489,,2025-09-18T06:05:34.656752848Z
+ABM,"ABM Industries, Inc.",stocks,us,XNYS,CS,True,usd,0000771497,BBG000B9YYH7,2025-09-18T06:05:34.656752928Z
+ABNB,"Airbnb, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,0001559720,BBG001Y2XS07,2025-09-18T06:05:34.656753008Z
+ABNY,YieldMax ABNB Option Income Strategy ETF,stocks,us,ARCX,ETS,True,usd,,BBG01JHFMD75,2025-09-18T06:05:34.656753088Z
+ABOS,"Acumen Pharmaceuticals, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001576885,BBG0058YJ317,2025-09-18T06:05:34.656753178Z
+ABOT,Abacus FCF Innovation Leaders ETF,stocks,us,BATS,ETF,True,usd,,BBG00YC69CJ2,2025-09-18T06:05:34.656753258Z
+ABP,"Abpro Holdings, Inc Common Stock",stocks,us,XNAS,CS,True,usd,0001893219,BBG013X0S7F3,2025-09-18T06:05:34.656753338Z
+ABPWW,"Abpro Holdings, Inc. Warrant",stocks,us,XNAS,WARRANT,True,usd,,BBG0142NHSW2,2025-09-18T06:05:34.656753559Z
+ABR,"Arbor Realty Trust, Inc.",stocks,us,XNYS,CS,True,usd,0001253986,BBG000KMVDV1,2025-09-18T06:05:34.656753649Z
+ABRpD,"Arbor Realty Trust, Inc. 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per Share",stocks,us,XNYS,PFD,True,usd,0001253986,,2025-09-18T06:05:34.656753729Z
+ABRpE,"Arbor Realty Trust, Inc. 6.25% Series E Cumulative Redeemable Preferred Stock",stocks,us,XNYS,PFD,True,usd,0001253986,,2025-09-18T06:05:34.656753809Z
+ABRpF,"Arbor Realty Trust, Inc. 6.25% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per share",stocks,us,XNYS,PFD,True,usd,0001253986,,2025-09-18T06:05:34.656753889Z
+ABSI,Absci Corporation Common Stock,stocks,us,XNAS,CS,True,usd,0001672688,BBG011N54CJ8,2025-09-18T06:05:34.65675412Z
+ABT,Abbott Laboratories,stocks,us,XNYS,CS,True,usd,0000001800,BBG000B9ZXB4,2025-09-18T06:05:34.6567542Z
+ABTC,American Bitcoin Corp. Class A Common Stock,stocks,us,XNAS,CS,True,usd,0001755953,BBG00MS8GZP1,2025-09-18T06:05:34.65675431Z
+ABTS,Abits Group Inc Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001864055,,2025-09-18T06:05:34.65675439Z
+ABUS,Arbutus Biopharma Corporation Common Stock,stocks,us,XNAS,CS,True,usd,0001447028,BBG000RR8V85,2025-09-18T06:05:34.656754471Z
+ABVC,"ABVC BioPharma, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001173313,BBG000Q844Z2,2025-09-18T06:05:34.656754551Z
+ABVE,Above Food Ingredients Inc. Common Stock,stocks,us,XNAS,CS,True,usd,0001979484,BBG01NGG37N1,2025-09-18T06:05:34.656754631Z
+ABVEW,Above Food Ingredients Inc. Warrants,stocks,us,XNAS,WARRANT,True,usd,0001979484,BBG01NKYQFV5,2025-09-18T06:05:34.656754711Z
+ABVX,Abivax SA American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001956827,BBG01JLQNZ03,2025-09-18T06:05:34.656754791Z
+ABXB,Abacus Flexible Bond Leaders ETF,stocks,us,BATS,ETF,True,usd,,BBG00YC5ZT62,2025-09-18T06:05:34.656754881Z
+ACA,"Arcosa, Inc. Common Stock",stocks,us,XNYS,CS,True,usd,0001739445,BBG00JGMWFM9,2025-09-18T06:05:34.656754982Z
+ACAD,Acadia Pharmaceuticals Inc.,stocks,us,XNAS,CS,True,usd,0001070494,BBG000BHG9K0,2025-09-18T06:05:34.656755062Z
+ACB,Aurora Cannabis Inc. Common Shares,stocks,us,XNAS,CS,True,usd,0001683541,BBG006SCSYG7,2025-09-18T06:05:34.656755132Z
+ACCO,Acco Brands Corporation,stocks,us,XNYS,CS,True,usd,0000712034,BBG000J06K07,2025-09-18T06:05:34.656755222Z
+ACCS,ACCESS Newswire Inc.,stocks,us,XASE,CS,True,usd,0000843006,BBG000C1CK87,2025-09-18T06:05:34.656755302Z
+ACDC,ProFrac Holding Corp. Class A Common Stock,stocks,us,XNAS,CS,True,usd,0001881487,BBG013PRYPJ2,2025-09-18T06:05:34.656755382Z
+ACEL,"Accel Entertainment, Inc.",stocks,us,XNYS,CS,True,usd,0001698991,BBG00GX221W3,2025-09-18T06:05:34.656755723Z
+ACES,ALPS Clean Energy ETF,stocks,us,ARCX,ETF,True,usd,0001414040,BBG00L99FCT0,2025-09-18T06:05:34.656755803Z
+ACET,"Adicet Bio, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001720580,BBG00JCXSJP3,2025-09-18T06:05:34.656755933Z
+ACFN,"Acorn Energy, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0000880984,BBG000CMY866,2025-09-18T06:05:34.656756014Z
+ACGL,Arch Capital Group Ltd,stocks,us,XNAS,CS,True,usd,0000947484,,2025-09-18T06:05:34.656756094Z
+ACGLN,"Arch Capital Group Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 4.550% Non-Cumulative Preferred Share, Series G",stocks,us,XNAS,CS,True,usd,0000947484,,2025-09-18T06:05:34.656756174Z
+ACGLO,"Arch Capital Group Ltd. Depositary Shares Each Representing 1/1,000th Interest in a Share of 5.45% Non-Cumulative Preferred Shares, Series F",stocks,us,XNAS,PFD,True,usd,0000947484,,2025-09-18T06:05:34.656756254Z
+ACGR,American Century Large Cap Growth ETF,stocks,us,ARCX,ETF,True,usd,0001481714,BBG011MFL031,2025-09-18T06:05:34.656756344Z
+ACHC,"Acadia Healthcare Company, Inc.",stocks,us,XNAS,CS,True,usd,0001520697,BBG000FPNN38,2025-09-18T06:05:34.656756424Z
+ACHR,Archer Aviation Inc.,stocks,us,XNYS,CS,True,usd,0001824502,BBG00XRTC910,2025-09-18T06:05:34.656756504Z
+ACHR.WS,"Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50",stocks,us,XNYS,WARRANT,True,usd,0001824502,BBG00YGCV1N9,2025-09-18T06:05:34.656756585Z
+ACHV,"Achieve Life Sciences, Inc.",stocks,us,XNAS,CS,True,usd,0000949858,BBG000FB8S62,2025-09-18T06:05:34.656756685Z
+ACI,"Albertsons Companies, Inc.",stocks,us,XNYS,CS,True,usd,0001646972,BBG009KG1750,2025-09-18T06:05:34.656756765Z
+ACIC,American Coastal Insurance Corporation Common Stock,stocks,us,XNAS,CS,True,usd,0001401521,BBG000TKFJQ7,2025-09-18T06:05:34.656756845Z
+ACIO,Aptus Collared Investment Opportunity ETF,stocks,us,BATS,ETF,True,usd,0001539639,BBG00PNSDFF3,2025-09-18T06:05:34.656756925Z
+ACIU,AC Immune SA,stocks,us,XNAS,CS,True,usd,0001651625,,2025-09-18T06:05:34.656757005Z
+ACIW,"ACI Worldwide, Inc.",stocks,us,XNAS,CS,True,usd,0000935036,BBG000PMBV39,2025-09-18T06:05:34.656757386Z
+ACKY,VistaShares Target 15 ACKtivist Distribution ETF,stocks,us,ARCX,ETF,True,usd,0001722388,BBG01WHYZLL7,2025-09-18T06:05:34.656757466Z
+ACLC,American Century Large Cap Equity ETF,stocks,us,ARCX,ETF,True,usd,0001481714,BBG00W0JV9Q5,2025-09-18T06:05:34.656757597Z
+ACLO,TCW AAA CLO ETF,stocks,us,XNYS,ETF,True,usd,0001831313,BBG01QPVFLN7,2025-09-18T06:05:34.656757677Z
+ACLS,Axcelis Technologies Inc,stocks,us,XNAS,CS,True,usd,0001113232,BBG000DW34S2,2025-09-18T06:05:34.656757827Z
+ACLX,"Arcellx, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001786205,BBG00QHJM4S9,2025-09-18T06:05:34.656757907Z
+ACM,Aecom,stocks,us,XNYS,CS,True,usd,0000868857,BBG000F61RJ8,2025-09-18T06:05:34.656757977Z
+ACMR,"ACM Research, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,0001680062,BBG00HPSG933,2025-09-18T06:05:34.656758057Z
+ACN,Accenture PLC,stocks,us,XNYS,CS,True,usd,0001467373,,2025-09-18T06:05:34.656758138Z
+ACNB,ACNB Corp,stocks,us,XNAS,CS,True,usd,0000715579,BBG000BJ2LY9,2025-09-18T06:05:34.656758218Z
+ACNT,Ascent Industries Co. Common Stock,stocks,us,XNAS,CS,True,usd,0000095953,BBG000CLRHW7,2025-09-18T06:05:34.656758298Z
+ACOG,Alpha Cognition Inc. Common Stock,stocks,us,XNAS,CS,True,usd,0001655923,BBG011CJPRD0,2025-09-18T06:05:34.656758378Z
+ACON,"Aclarion, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001635077,BBG014FBN4K3,2025-09-18T06:05:34.656758458Z
+ACONW,"Aclarion, Inc. Warrant",stocks,us,XNAS,WARRANT,True,usd,0001635077,BBG016Z2HS66,2025-09-18T06:05:34.656758548Z
+ACP,abrdn Income Credit Strategies Fund,stocks,us,XNYS,FUND,True,usd,0001503290,BBG0017VSC04,2025-09-18T06:05:34.656758629Z
+ACPpA,abrdn Income Credit Strategies Fund  5.250% Series A Perpetual Preferred Stock,stocks,us,XNYS,PFD,True,usd,0001503290,,2025-09-18T06:05:34.656758709Z
+ACR,ACRES Commercial Realty Corp.,stocks,us,XNYS,CS,True,usd,0001332551,BBG000HK4RX6,2025-09-18T06:05:34.656758939Z
+ACRE,Ares Commercial Real Estate Corporation,stocks,us,XNYS,CS,True,usd,0001529377,BBG0022MMQB0,2025-09-18T06:05:34.656759019Z
+ACRS,"Aclaris Therapeutics, Inc.",stocks,us,XNAS,CS,True,usd,0001557746,BBG003LF0QR9,2025-09-18T06:05:34.65675921Z
+ACRV,"Acrivon Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001781174,BBG011RWR2Q4,2025-09-18T06:05:34.65675942Z
+ACRpC,"ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock, par value $0.001 per share",stocks,us,XNYS,PFD,True,usd,0001332551,,2025-09-18T06:05:34.65675963Z
+ACRpD,ACRES Commercial Realty Corp. 7.875% Series D Cumulative Redeemable Preferred Stock,stocks,us,XNYS,PFD,True,usd,0001332551,,2025-09-18T06:05:34.656759711Z
+ACSI,American Customer Satisfaction ETF,stocks,us,BATS,ETF,True,usd,0001387131,BBG00F40VFY6,2025-09-18T06:05:34.656759891Z
+ACT,"Enact Holdings, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001823529,BBG00WSNP4R3,2025-09-18T06:05:34.656759971Z
+ACTG,Acacia Research Corporation,stocks,us,XNAS,CS,True,usd,0000934549,BBG000KF9J02,2025-09-18T06:05:34.656760171Z
+ACTU,"Actuate Therapeutics, Inc. Common stock",stocks,us,XNAS,CS,True,usd,0001652935,BBG00NK7LK03,2025-09-18T06:05:34.656760262Z
+ACTV,LeaderShares Activist Leaders ETF,stocks,us,ARCX,ETF,True,usd,0001552947,BBG00Y002P42,2025-09-18T06:05:34.656760382Z
+ACU,Acme United Corporation,stocks,us,XASE,CS,True,usd,0000002098,BBG000BB3LM8,2025-09-18T06:05:34.656760462Z
+ACV,Virtus Diversified Income & Convertible Fund,stocks,us,XNYS,FUND,True,usd,0001636289,BBG008HMBD22,2025-09-18T06:05:34.656760542Z
+ACVA,ACV Auctions Inc.,stocks,us,XNYS,CS,True,usd,0001637873,BBG00G5JGQ66,2025-09-18T06:05:34.656760622Z
+ACVF,American Conservative Values ETF,stocks,us,ARCX,ETF,True,usd,,BBG00Y04Q9T7,2025-09-18T06:05:34.656760702Z
+ACVT,Advent Convertible Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG01TQ0YGP6,2025-09-18T06:05:34.656760793Z
+ACWI,iShares MSCI ACWI ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG000TH6VB3,2025-09-18T06:05:34.656760993Z
+ACWV,iShares MSCI Global Min Vol Factor ETF,stocks,us,BATS,ETF,True,usd,0001100663,BBG0025X38X0,2025-09-18T06:05:34.656761073Z
+ACWX,iShares MSCI ACWI ex US ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG000TH7DF8,2025-09-18T06:05:34.656761314Z
+ACXP,"Acurx Pharmaceuticals, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001736243,BBG01184DNJ4,2025-09-18T06:05:34.656761404Z
+AD,"Array Digital Infrastructure, Inc.",stocks,us,XNYS,CS,True,usd,0000821130,BBG000BW6P59,2025-09-18T06:05:34.656761484Z
+ADAG,Adagene Inc. American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001818838,BBG00YZ6BYJ6,2025-09-18T06:05:34.656761564Z
+ADAM,"Adamas Trust, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001273685,BBG000GZ8014,2025-09-18T06:05:34.656761644Z
+ADAMG,"Adamas Trust, Inc. 9.125% Senior Notes Due 2030",stocks,us,XNAS,CS,True,usd,0001273685,,2025-09-18T06:05:34.656761724Z
+ADAMH,"Adamas Trust, Inc. 9.875% Senior Notes Due 2030",stocks,us,XNAS,CS,True,usd,0001273685,,2025-09-18T06:05:34.656761805Z
+ADAMI,"Adamas Trust, Inc. 9.125% Senior Notes Due 2029",stocks,us,XNAS,CS,True,usd,0001273685,,2025-09-18T06:05:34.656761885Z
+ADAML,"Adamas Trust, Inc. 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",stocks,us,XNAS,CS,True,usd,0001273685,,2025-09-18T06:05:34.656761965Z
+ADAMM,"Adamas Trust, Inc. 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",stocks,us,XNAS,PFD,True,usd,0001273685,,2025-09-18T06:05:34.656762045Z
+ADAMN,"Adamas Trust, Inc. 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",stocks,us,XNAS,PFD,True,usd,0001273685,,2025-09-18T06:05:34.656762125Z
+ADAMZ,"Adamas Trust, Inc. 7.000% Series G Cumulative Redeemable Preferred Stock, $0.01 par value per share",stocks,us,XNAS,CS,True,usd,0001273685,,2025-09-18T06:05:34.656762205Z
+ADAP,Adaptimmune Therapeutics plc American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001621227,BBG008G65WC2,2025-09-18T06:05:34.656762286Z
+ADBE,Adobe Inc.,stocks,us,XNAS,CS,True,usd,0000796343,BBG000BB5006,2025-09-18T06:05:34.656762366Z
+ADBG,Leverage Shares 2X Long ADBE Daily ETF,stocks,us,XNAS,ETF,True,usd,0001976322,BBG01SWP6HM8,2025-09-18T06:05:34.656762596Z
+ADC,Agree Realty Corporation,stocks,us,XNYS,CS,True,usd,0000917251,BBG000BC9DK0,2025-09-18T06:05:34.656762676Z
+ADCT,ADC Therapeutics SA,stocks,us,XNYS,CS,True,usd,0001771910,,2025-09-18T06:05:34.656762776Z
+ADCpA,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock",stocks,us,XNYS,PFD,True,usd,0000917251,,2025-09-18T06:05:34.656762887Z
+ADEA,Adeia Inc. Common Stock,stocks,us,XNAS,CS,True,usd,0001803696,BBG00RBFBL50,2025-09-18T06:05:34.656762967Z
+ADFI,Anfield Dynamic Fixed Income ETF,stocks,us,BATS,ETF,True,usd,0001552947,BBG00WRFGTJ5,2025-09-18T06:05:34.656763037Z
+ADGM,"Adagio Medical Holdings, Inc Common Stock",stocks,us,XNAS,CS,True,usd,0002006986,BBG01P202S42,2025-09-18T06:05:34.656763127Z
+ADI,"Analog Devices, Inc.",stocks,us,XNAS,CS,True,usd,0000006281,BBG000BB6G37,2025-09-18T06:05:34.656763207Z
+ADIL,"Adial Pharmaceuticals, Inc",stocks,us,XNAS,CS,True,usd,0001513525,BBG00HNGDTR4,2025-09-18T06:05:34.656763388Z
+ADIV,SmartETFs Asia Pacific Dividend Builder ETF,stocks,us,ARCX,ETF,True,usd,,BBG00ZV17TH6,2025-09-18T06:05:34.656763478Z
+ADM,Archer Daniels Midland Company,stocks,us,XNYS,CS,True,usd,0000007084,BBG000BB6WG8,2025-09-18T06:05:34.656763648Z
+ADMA,"ADMA Biologics, Inc.",stocks,us,XNAS,CS,True,usd,0001368514,BBG002NCK5M5,2025-09-18T06:05:34.656763718Z
+ADME,Aptus Behavioral Momentum ETF,stocks,us,BATS,ETF,True,usd,0001539639,BBG00D20HG22,2025-09-18T06:05:34.656763798Z
+ADN,"Advent Technologies Holdings, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,0001744494,BBG00MDV8X34,2025-09-18T06:05:34.656763889Z
+ADNT,Adient plc Ordinary Shares,stocks,us,XNYS,CS,True,usd,0001670541,,2025-09-18T06:05:34.656764139Z
+ADNWW,"Advent Technologies Holdings, Inc. Warrant",stocks,us,XNAS,WARRANT,True,usd,0001744494,BBG00MVVPD93,2025-09-18T06:05:34.656764219Z
+ADP,Automatic Data Processing,stocks,us,XNAS,CS,True,usd,0000008670,BBG000JG0547,2025-09-18T06:05:34.65676456Z
+ADPT,Adaptive Biotechnologies Corporation Common Stock,stocks,us,XNAS,CS,True,usd,0001478320,BBG001J2PFF5,2025-09-18T06:05:34.65676464Z
+ADPV,Adaptiv Select ETF,stocks,us,ARCX,ETF,True,usd,,BBG01BBJQ2C4,2025-09-18T06:05:34.65676476Z
+ADSE,ADS-TEC ENERGY PLC Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001879248,,2025-09-18T06:05:34.65676485Z
+ADSEW,ADS-TEC ENERGY PLC Warrant,stocks,us,XNAS,WARRANT,True,usd,0001879248,,2025-09-18T06:05:34.656764931Z
+ADSK,Autodesk Inc,stocks,us,XNAS,CS,True,usd,0000769397,BBG000BM7HL0,2025-09-18T06:05:34.656765011Z
+ADT,ADT Inc.,stocks,us,XNYS,CS,True,usd,0001703056,BBG000BP9WJ1,2025-09-18T06:05:34.656765091Z
+ADTN,"ADTRAN Holdings, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0000926282,BBG0169CH7X9,2025-09-18T06:05:34.656765191Z
+ADTX,"Aditxt, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001726711,BBG00RDV1WS5,2025-09-18T06:05:34.656765271Z
+ADUR,Aduro Clean Technologies Inc. Common Stock,stocks,us,XNAS,CS,True,usd,0001863934,BBG011F62496,2025-09-18T06:05:34.656765351Z
+ADUS,Addus HomeCare Corp.,stocks,us,XNAS,CS,True,usd,0001468328,BBG000NJGX84,2025-09-18T06:05:34.656765432Z
+ADV,Advantage Solutions Inc. Class A Common Stock,stocks,us,XNAS,CS,True,usd,0001776661,BBG00PPWZ8C7,2025-09-18T06:05:34.656765512Z
+ADVB,Advanced Biomed Inc. Common Stock,stocks,us,XNAS,CS,True,usd,0001941029,BBG01HW4B3M4,2025-09-18T06:05:34.656765672Z
+ADVE,Matthews Asia Dividend Active ETF,stocks,us,ARCX,ETF,True,usd,,BBG01JFHH825,2025-09-18T06:05:34.656765752Z
+ADVM,"Adverum Biotechnologies, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001501756,BBG006D9MR17,2025-09-18T06:05:34.656765832Z
+ADVWW,Advantage Solutions Inc. Warrant,stocks,us,XNAS,WARRANT,True,usd,0001776661,BBG00Q6CTMG2,2025-09-18T06:05:34.656765912Z
+ADX,"Adams Diversified Equity Fund, Inc",stocks,us,XNYS,FUND,True,usd,0000002230,BBG000BB8MR6,2025-09-18T06:05:34.656766143Z
+ADXN,Addex Therapeutics Ltd American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001574232,BBG00R48ST95,2025-09-18T06:05:34.656766223Z
+AEBI,Aebi Schmidt Holding AG Common Stock,stocks,us,XNAS,CS,True,usd,0002048519,,2025-09-18T06:05:34.656766393Z
+AEE,Ameren Corporation,stocks,us,XNYS,CS,True,usd,0001002910,BBG000B9X8C0,2025-09-18T06:05:34.656766473Z
+AEF,"abrdn Emerging Markets ex-China Fund, Inc.",stocks,us,XASE,FUND,True,usd,0000846676,BBG000BGWCV5,2025-09-18T06:05:34.656766564Z
+AEFC,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,stocks,us,XNYS,SP,True,usd,0000769218,,2025-09-18T06:05:34.656766644Z
+AEG,Aegon Ltd.,stocks,us,XNYS,CS,True,usd,0000769218,BBG000CKQSN6,2025-09-18T06:05:34.656766724Z
+AEHL,Antelope Enterprise Holdings Limited Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001470683,,2025-09-18T06:05:34.656766804Z
+AEHR,Aehr Test Systems,stocks,us,XNAS,CS,True,usd,0001040470,BBG000BWM083,2025-09-18T06:05:34.656766884Z
+AEI,Alset Inc. Common Stock (TX),stocks,us,XNAS,CS,True,usd,0001750106,BBG000PZLNH2,2025-09-18T06:05:34.656766974Z
+AEIS,Advanced Energy Industries Inc,stocks,us,XNAS,CS,True,usd,0000927003,BBG000FKMP26,2025-09-18T06:05:34.656767045Z
+AEM,Agnico Eagle Mines Ltd.,stocks,us,XNYS,CS,True,usd,0000002809,BBG000DLVDK3,2025-09-18T06:05:34.656767125Z
+AEMD,AETHLON MEDICAL INC,stocks,us,XNAS,CS,True,usd,0000882291,BBG000L78XT8,2025-09-18T06:05:34.656767205Z
+AEMS,Anfield Enhanced Market ETF,stocks,us,BATS,ETF,True,usd,0001552947,BBG01VRP0J30,2025-09-18T06:05:34.656767295Z
+AENT,Alliance Entertainment Holding Corporation Class A Common Stock,stocks,us,XNAS,CS,True,usd,0001823584,BBG00YB0X2R2,2025-09-18T06:05:34.656767375Z
+AENTW,Alliance Entertainment Holding Corporation Warrants,stocks,us,XNAS,WARRANT,True,usd,0001823584,BBG00ZS05J95,2025-09-18T06:05:34.656767455Z
+AEO,American Eagle Outfitters,stocks,us,XNYS,CS,True,usd,0000919012,BBG000BGXZB5,2025-09-18T06:05:34.656767686Z
+AEON,"AEON Biopharma, Inc.",stocks,us,XASE,CS,True,usd,0001837607,BBG00Z17HDW3,2025-09-18T06:05:34.656767766Z
+AEP,"American Electric Power Company, Inc.",stocks,us,XNAS,CS,True,usd,0000004904,BBG000BB9KF2,2025-09-18T06:05:34.656767906Z
+AER,Aercap Holdings N.V.,stocks,us,XNYS,CS,True,usd,0001378789,,2025-09-18T06:05:34.656767986Z
+AERT,"Aeries Technology, Inc. Class A Ordinary Share",stocks,us,XNAS,CS,True,usd,0001853044,,2025-09-18T06:05:34.656768067Z
+AERTW,"Aeries Technology, Inc. Warrant",stocks,us,XNAS,WARRANT,True,usd,0001853044,,2025-09-18T06:05:34.656768147Z
+AES,AES Corporation,stocks,us,XNYS,CS,True,usd,0000874761,BBG000C23KJ3,2025-09-18T06:05:34.656768237Z
+AESI,Atlas Energy Solutions Inc.,stocks,us,XNYS,CS,True,usd,0001984060,BBG01JFZ96X4,2025-09-18T06:05:34.656768317Z
+AESR,Anfield U.S. Equity Sector Rotation ETF,stocks,us,BATS,ETF,True,usd,0001552947,BBG00R4084K6,2025-09-18T06:05:34.656768397Z
+AETH,Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF,stocks,us,ARCX,ETF,True,usd,,BBG01JLGS0C4,2025-09-18T06:05:34.656768477Z
+AEVA,"Aeva Technologies, Inc.",stocks,us,XNAS,CS,True,usd,0001789029,BBG00RK5L2N3,2025-09-18T06:05:34.656768567Z
+AEVAW,"Aeva Technologies, Inc. Warrants",stocks,us,XNAS,WARRANT,True,usd,0001789029,BBG00RYQY3V7,2025-09-18T06:05:34.656768648Z
+AEYE,"AudioEye, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001362190,BBG002ZQLQB6,2025-09-18T06:05:34.656768728Z
+AFB,"Alliance National Municipal Income Fund, Inc.",stocks,us,XNYS,FUND,True,usd,0001162027,BBG000DTM676,2025-09-18T06:05:34.656768808Z
+AFBI,"Affinity Bancshares, Inc. Common Stock (MD)",stocks,us,XNAS,CS,True,usd,0001823406,BBG00XH58W17,2025-09-18T06:05:34.656768888Z
+AFCG,Advanced Flower Capital Inc. Common Stock,stocks,us,XNAS,CS,True,usd,0001822523,BBG00YPSX4X5,2025-09-18T06:05:34.656768968Z
+AFG,"American Financial Group, Inc.",stocks,us,XNYS,CS,True,usd,0001042046,BBG000DPKKK0,2025-09-18T06:05:34.656769189Z
+AFGB,"American Financial Group, Inc. 5.875% Subordinated Debentures due 2059",stocks,us,XNYS,SP,True,usd,0001042046,,2025-09-18T06:05:34.656769269Z
+AFGC,"American Financial Group, Inc. 5.125% Subordinated Debentures due 2059",stocks,us,XNYS,SP,True,usd,0001042046,,2025-09-18T06:05:34.656769429Z
+AFGD,"American Financial Group, Inc. 5.625% Subordinated Debentures due 2060",stocks,us,XNYS,SP,True,usd,0001042046,,2025-09-18T06:05:34.656769509Z
+AFGE,"American Financial Group, Inc. 4.500% Subordinated Debentures due 2060",stocks,us,XNYS,SP,True,usd,0001042046,,2025-09-18T06:05:34.656769589Z
+AFIF,Anfield Universal Fixed Income ETF,stocks,us,BATS,ETF,True,usd,0001552947,BBG00LZQ9356,2025-09-18T06:05:34.65676967Z
+AFIX,Allspring Broad Market Core Bond ETF,stocks,us,ARCX,ETF,True,usd,,BBG01QVK6KB9,2025-09-18T06:05:34.65676978Z
+AFJK,"Aimei Health Technology Co., Ltd Ordinary Share",stocks,us,XNAS,CS,True,usd,0001979005,,2025-09-18T06:05:34.65676986Z
+AFJKR,"Aimei Health Technology Co., Ltd Right",stocks,us,XNAS,RIGHT,True,usd,0001979005,,2025-09-18T06:05:34.65676994Z
+AFJKU,"Aimei Health Technology Co., Ltd Unit",stocks,us,XNAS,UNIT,True,usd,0001979005,,2025-09-18T06:05:34.65677003Z
+AFK,VanEck Africa Index ETF,stocks,us,ARCX,ETF,True,usd,0001137360,BBG000H0B9J8,2025-09-18T06:05:34.65677011Z
+AFL,Aflac Inc.,stocks,us,XNYS,CS,True,usd,0000004977,BBG000BBBNC6,2025-09-18T06:05:34.656770191Z
+AFLG,First Trust Active Factor Large Cap ETF,stocks,us,ARCX,ETF,True,usd,0001667919,BBG00QZ0DQB9,2025-09-18T06:05:34.656770271Z
+AFMC,First Trust Active Factor Mid Cap ETF,stocks,us,ARCX,ETF,True,usd,0001667919,BBG00QZ0GVP0,2025-09-18T06:05:34.656770351Z
+AFOS,ARS Focused Opportunity Strategy ETF,stocks,us,XNAS,ETF,True,usd,,BBG01VPTD7B7,2025-09-18T06:05:34.656770431Z
+AFRI,Forafric Global PLC Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001903870,,2025-09-18T06:05:34.656770511Z
+AFRIW,Forafric Global PLC Warrants,stocks,us,XNAS,WARRANT,True,usd,0001903870,,2025-09-18T06:05:34.656770772Z
+AFRM,"Affirm Holdings, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,0001820953,BBG00Y7BP8Y1,2025-09-18T06:05:34.656770842Z
+AFRU,T-REX 2X Long AFRM Daily Target ETF,stocks,us,BATS,ETF,True,usd,,BBG01WW9WYK1,2025-09-18T06:05:34.656770962Z
+AFSC,abrdn Focused U.S. Small Cap Active ETF,stocks,us,XNAS,ETF,True,usd,,BBG01S68Z424,2025-09-18T06:05:34.656771042Z
+AFSM,First Trust Active Factor Small Cap ETF,stocks,us,ARCX,ETF,True,usd,0001667919,BBG00QZ0H932,2025-09-18T06:05:34.656771122Z
+AFYA,Afya Limited Class A Common Shares,stocks,us,XNAS,CS,True,usd,0001771007,,2025-09-18T06:05:34.656771203Z
+AG,FIRST MAJESTIC SILVER CORP,stocks,us,XNYS,CS,True,usd,0001308648,BBG000CH7WB8,2025-09-18T06:05:34.656771293Z
+AGAE,Allied Gaming & Entertainment Inc. Common Stock,stocks,us,XNAS,CS,True,usd,0001708341,BBG00J2442Y1,2025-09-18T06:05:34.656771373Z
+AGCO,AGCO Corporation,stocks,us,XNYS,CS,True,usd,0000880266,BBG000DCCZW2,2025-09-18T06:05:34.656771453Z
+AGD,abrdn Global Dynamic Dividend Fund,stocks,us,XNYS,FUND,True,usd,0001362481,BBG000DJLNL6,2025-09-18T06:05:34.656771533Z
+AGEM,abrdn Emerging Markets Dividend Active ETF,stocks,us,XNAS,ETF,True,usd,,BBG01S68DQN6,2025-09-18T06:05:34.656771613Z
+AGEN,Agenus Inc.,stocks,us,XNAS,CS,True,usd,0001098972,BBG000C8SWQ9,2025-09-18T06:05:34.656771703Z
+AGG,iShares Core U.S. Aggregate Bond ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000Q123R0,2025-09-18T06:05:34.656771784Z
+AGGA,EA Series Trust EA Astoria Dynamic Core US Fixed Income ETF,stocks,us,XNAS,ETF,True,usd,,BBG01TS490J6,2025-09-18T06:05:34.656771864Z
+AGGH,Simplify Aggregate Bond ETF,stocks,us,ARCX,ETF,True,usd,0001810747,BBG015BC7V75,2025-09-18T06:05:34.656771944Z
+AGGS,Harbor Disciplined Bond ETF,stocks,us,ARCX,ETF,True,usd,0001860434,BBG01MCGX1X6,2025-09-18T06:05:34.656772024Z
+AGGY,WisdomTree Yield Enhanced U.S. Aggregate Bond Fund,stocks,us,ARCX,ETF,True,usd,0001350487,BBG009KCY2B7,2025-09-18T06:05:34.656772224Z
+AGH,Aureus Greenway Holdings Inc. Common Stock,stocks,us,XNAS,CS,True,usd,0002009312,BBG01NG4Q1P4,2025-09-18T06:05:34.656772305Z
+AGI,Alamos Gold Inc. Class A Common Shares,stocks,us,XNYS,CS,True,usd,0001178819,BBG009HT6BL4,2025-09-18T06:05:34.656772415Z
+AGIO,"Agios Pharmaceuticals, Inc.",stocks,us,XNAS,CS,True,usd,0001439222,BBG000QY4ZD0,2025-09-18T06:05:34.656772495Z
+AGIQ,SoFi Agentic AI ETF,stocks,us,ARCX,ETF,True,usd,,BBG01WV67GC4,2025-09-18T06:05:34.656772685Z
+AGIX,KraneShares Artificial Intelligence ETF,stocks,us,XNAS,ETF,True,usd,0001536592,BBG01NT1RH61,2025-09-18T06:05:34.656772765Z
+AGL,"agilon health, inc.",stocks,us,XNYS,CS,True,usd,0001831097,BBG00HCYVQQ4,2025-09-18T06:05:34.656772846Z
+AGM,Federal Agricultural Mortgage Corporation,stocks,us,XNYS,CS,True,usd,0000845877,BBG000G8ZKY4,2025-09-18T06:05:34.656772926Z
+AGM.A,Federal Agricultural Mortgage Corporation Class A Voting,stocks,us,XNYS,CS,True,usd,0000845877,BBG000G8Y1Z6,2025-09-18T06:05:34.656772996Z
+AGMH,AGM Group Holdings Inc. Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001705402,,2025-09-18T06:05:34.656773086Z
+AGMI,Themes Silver Miners ETF,stocks,us,XNAS,ETF,True,usd,0001976322,BBG01MQSFLS7,2025-09-18T06:05:34.656773317Z
+AGMpD,"Federal Agricultural Mortgage Corporation 5.700% Non-Cumulative Preferred Stock, Series D",stocks,us,XNYS,PFD,True,usd,0000845877,,2025-09-18T06:05:34.656773547Z
+AGMpE,"Federal Agricultural Mortgage Corporation 5.750% Non-Cumulative Preferred Stock, Series E",stocks,us,XNYS,PFD,True,usd,0000845877,,2025-09-18T06:05:34.656773627Z
+AGMpF,"Federal Agricultural Mortgage Corporation 5.250% Non-Cumulative Preferred Stock, Series F",stocks,us,XNYS,PFD,True,usd,0000845877,,2025-09-18T06:05:34.656773828Z
+AGMpG,"Federal Agricultural Mortgage Corporation 4.875% Non-Cumulative Preferred Stock, Series G",stocks,us,XNYS,PFD,True,usd,0000845877,,2025-09-18T06:05:34.656773908Z
+AGMpH,"Federal Agricultural Mortgage Corporation 6.500% Non-Cumulative Preferred Stock, Series H",stocks,us,XNYS,PFD,True,usd,0000845877,,2025-09-18T06:05:34.656773988Z
+AGNC,AGNC Investment Corp. Common Stock,stocks,us,XNAS,CS,True,usd,0001423689,BBG000TJ8XZ7,2025-09-18T06:05:34.656774078Z
+AGNCL,"AGNC Investment Corp. Depositary Shares Each Representing a 1/1,000th Interest in a Share of 7.75% Series G Fixed-Rate Reset Cumulative Redeemable Preferred Stock",stocks,us,XNAS,CS,True,usd,0001423689,,2025-09-18T06:05:34.656774158Z
+AGNCM,AGNC Investment Corp. Depositary Shares rep 6.875% Series D Fixed-to-Floating Cumulative Redeemable Preferred Stock,stocks,us,XNAS,PFD,True,usd,0001423689,,2025-09-18T06:05:34.656774278Z
+AGNCN,"AGNC Investment Corp. Depositary Shares Each Representing a 1/1,000th Interest in a Share of 7 percent Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock",stocks,us,XNAS,PFD,True,usd,0001423689,,2025-09-18T06:05:34.656774359Z
+AGNCO,"AGNC Investment Corp. Depositary Shares, each representing a 1/1,000th interest in a share of 6.50% Series E Fixed-to-Floating Cumulative Redeemable Preferred Stock",stocks,us,XNAS,CS,True,usd,0001423689,,2025-09-18T06:05:34.656774439Z
+AGNCP,"AGNC Investment Corp. Depositary Shares Each Representing a 1/1,000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",stocks,us,XNAS,PFD,True,usd,0001423689,,2025-09-18T06:05:34.656774519Z
+AGNCZ,AGNC Investment Corp. 8.75% Series H Fixed-Rate Cumulative Redeemable Preferred Stock,stocks,us,XNAS,PFD,True,usd,0001423689,,2025-09-18T06:05:34.656774609Z
+AGNG,Global X Funds Global X Aging Population ETF,stocks,us,XNAS,ETF,True,usd,0001432353,BBG00CVW2JC1,2025-09-18T06:05:34.65677505Z
+AGO,"Assured Guaranty, LTD",stocks,us,XNYS,CS,True,usd,0001273813,,2025-09-18T06:05:34.65677513Z
+AGOX,Adaptive Alpha Opportunities ETF,stocks,us,ARCX,ETF,True,usd,,BBG010WX25M2,2025-09-18T06:05:34.65677521Z
+AGQ,ProShares Ultra Silver,stocks,us,ARCX,ETV,True,usd,0001415311,BBG000F7KQG0,2025-09-18T06:05:34.65677529Z
+AGQI,First Trust Active Global Quality Income ETF,stocks,us,ARCX,ETF,True,usd,0001667919,BBG01K8H7QZ5,2025-09-18T06:05:34.65677538Z
+AGRH,iShares Interest Rate Hedged U.S. Aggregate Bond ETF,stocks,us,ARCX,ETF,True,usd,0001524513,BBG01858ZD01,2025-09-18T06:05:34.656775461Z
+AGRI,AgriFORCE Growing Systems Ltd. Common Shares,stocks,us,XNAS,CS,True,usd,0001826397,,2025-09-18T06:05:34.656775541Z
+AGRO,ADECOAGRO S.A.,stocks,us,XNYS,CS,True,usd,0001499505,,2025-09-18T06:05:34.656775621Z
+AGRW,Allspring LT Large Growth ETF,stocks,us,ARCX,ETF,True,usd,,BBG01SXPDTR8,2025-09-18T06:05:34.656775741Z
+AGX,"Argan, Inc",stocks,us,XNYS,CS,True,usd,0000100591,BBG000K4J3T0,2025-09-18T06:05:34.656776002Z
+AGYS,"Agilysys, Inc. Common Stock (DE)",stocks,us,XNAS,CS,True,usd,0000078749,BBG000BR74W6,2025-09-18T06:05:34.656776082Z
+AGZ,iShares Agency Bond ETF,stocks,us,ARCX,ETF,True,usd,0001100663,BBG000G03TV0,2025-09-18T06:05:34.656776192Z
+AGZD,WisdomTree Trust WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund,stocks,us,XNAS,ETF,True,usd,0001350487,BBG005Q26B40,2025-09-18T06:05:34.656776272Z
+AHCO,AdaptHealth Corp. Common Stock,stocks,us,XNAS,CS,True,usd,0001725255,BBG00KJQVGV3,2025-09-18T06:05:34.656776352Z
+AHG,Akso Health Group ADS,stocks,us,XNAS,ADRC,True,usd,0001702318,BBG00HVQFMZ7,2025-09-18T06:05:34.656776432Z
+AHH,"Armada Hoffler Properties, Inc.",stocks,us,XNYS,CS,True,usd,0001569187,BBG004CYX1M0,2025-09-18T06:05:34.656776513Z
+AHHpA,"Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock",stocks,us,XNYS,PFD,True,usd,0001569187,,2025-09-18T06:05:34.656776593Z
+AHL,Aspen Insurance Holdings Limited,stocks,us,XNYS,CS,True,usd,0001267395,,2025-09-18T06:05:34.656776953Z
+AHLT,American Beacon AHL Trend ETF,stocks,us,ARCX,ETF,True,usd,,BBG01J3YK8D5,2025-09-18T06:05:34.656777034Z
+AHLpD,Aspen Insurance Holdings Limited 5.625% Perpetual Non-Cumulative Preference Shares,stocks,us,XNYS,PFD,True,usd,0001267395,,2025-09-18T06:05:34.656777244Z
+AHLpE,"Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share of 5.625% Perpetual Non-Cumulative Preference Shares",stocks,us,XNYS,PFD,True,usd,0001267395,,2025-09-18T06:05:34.656777324Z
+AHLpF,"Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1,000th Interest in a 7.00% Perpetual Non-Cumulative Preference Share",stocks,us,XNYS,PFD,True,usd,0001267395,,2025-09-18T06:05:34.656777404Z
+AHR,"American Healthcare REIT, Inc.",stocks,us,XNYS,CS,True,usd,0001632970,BBG01L820CZ4,2025-09-18T06:05:34.656777484Z
+AHT,"Ashford Hospitality Trust, Inc.",stocks,us,XNYS,CS,True,usd,0001232582,BBG000PRZVD1,2025-09-18T06:05:34.656777575Z
+AHTpD,"Ashford Hospitality Trust, Inc. 8.45% Series D",stocks,us,XNYS,PFD,True,usd,0001232582,,2025-09-18T06:05:34.656777655Z
+AHTpF,"Ashford Hospitality Trust, Inc.",stocks,us,XNYS,PFD,True,usd,0001232582,,2025-09-18T06:05:34.656777895Z
+AHTpG,"Ashford Hospitality Trust, Inc   7.375% Series G Cumulative Preferred Stock",stocks,us,XNYS,PFD,True,usd,0001232582,,2025-09-18T06:05:34.656777975Z
+AHTpH,"Ashford Hospitality Trust, Inc. 7.50 Percent Series H Cumulative Preferred Stock",stocks,us,XNYS,PFD,True,usd,0001232582,,2025-09-18T06:05:34.656778086Z
+AHTpI,"Ashford Hospitality Trust, Inc. 7.50% Series I Cumulative Preferred Stock",stocks,us,XNYS,PFD,True,usd,0001232582,,2025-09-18T06:05:34.656778166Z
+AHYB,American Century Select High Yield ETF,stocks,us,ARCX,ETF,True,usd,0001710607,BBG013HJSPQ8,2025-09-18T06:05:34.656778246Z
+AI,"C3.ai, Inc.",stocks,us,XNYS,CS,True,usd,0001577526,BBG00Y6G6X31,2025-09-18T06:05:34.656778336Z
+AIA,iShares Asia 50 ETF,stocks,us,XNAS,ETF,True,usd,0001100663,BBG000TVYW56,2025-09-18T06:05:34.656778426Z
+AIBD,Direxion Daily AI and Big Data Bear 2X Shares,stocks,us,ARCX,ETF,True,usd,,BBG01MG5S082,2025-09-18T06:05:34.656778506Z
+AIBU,Direxion Daily AI and Big Data Bull 2X Shares,stocks,us,ARCX,ETF,True,usd,,BBG01MG5M122,2025-09-18T06:05:34.656778587Z
+AIEQ,Amplify AI Powered Equity ETF,stocks,us,ARCX,ETF,True,usd,0001633061,BBG01L6Y3H73,2025-09-18T06:05:34.656778677Z
+AIFD,TCW Artificial Intelligence ETF,stocks,us,XNAS,ETF,True,usd,0001831313,BBG01MQS6C89,2025-09-18T06:05:34.656778757Z
+AIFF,"Firefly Neuroscience, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0000803578,BBG000BF6HD5,2025-09-18T06:05:34.656778847Z
+AIFU,AIFU Inc. Class A Ordinary Share,stocks,us,XNAS,CS,True,usd,0001413855,,2025-09-18T06:05:34.656778927Z
+AIG,"American International Group, Inc.",stocks,us,XNYS,CS,True,usd,0000005272,BBG000BBDZG3,2025-09-18T06:05:34.656779007Z
+AIHS,Senmiao Technology Limited Common Stock,stocks,us,XNAS,CS,True,usd,0001711012,BBG00J3Q25V9,2025-09-18T06:05:34.656779088Z
+AII,"American Integrity Insurance Group, Inc.",stocks,us,XNYS,CS,True,usd,0002007587,BBG000BN06C9,2025-09-18T06:05:34.656779168Z
+AIIO,Robo.ai Inc. Class B Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001932737,,2025-09-18T06:05:34.656779408Z
+AIIOW,Robo.ai Inc. Warrant,stocks,us,XNAS,WARRANT,True,usd,0001932737,,2025-09-18T06:05:34.656779488Z
+AIM,AIM ImmunoTech Inc.,stocks,us,XASE,CS,True,usd,0000946644,BBG000JL6Z80,2025-09-18T06:05:34.656779619Z
+AIMD,"Ainos, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001014763,BBG000H6PLR4,2025-09-18T06:05:34.656779739Z
+AIMDW,"Ainos, Inc. Warrants",stocks,us,XNAS,WARRANT,True,usd,0001014763,BBG019232J79,2025-09-18T06:05:34.656779839Z
+AIN,Albany International Corp Class A,stocks,us,XNYS,CS,True,usd,0000819793,BBG000BRWWH3,2025-09-18T06:05:34.656779919Z
+AINP,Allspring Income Plus ETF,stocks,us,ARCX,ETF,True,usd,,BBG01QVK6YM7,2025-09-18T06:05:34.656779999Z
+AIO,Virtus Artificial Intelligence & Technology Opportunities Fund,stocks,us,XNYS,FUND,True,usd,0001778114,BBG00Q7474K8,2025-09-18T06:05:34.656780079Z
+AIOO,AllianzIM U.S. Equity Buffer100 Protection ETF,stocks,us,BATS,ETF,True,usd,0001797318,BBG01V5B7TC6,2025-09-18T06:05:34.65678016Z
+AIOT,"PowerFleet, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001774170,BBG00PG3JNL6,2025-09-18T06:05:34.65678024Z
+AIP,"Arteris, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001667011,BBG000QMLTK3,2025-09-18T06:05:34.65678032Z
+AIPI,REX AI Equity Premium Income ETF,stocks,us,XNAS,ETF,True,usd,,BBG01N48YNC5,2025-09-18T06:05:34.6567804Z
+AIPO,Defiance AI & Power Infrastructure ETF,stocks,us,XNAS,ETF,True,usd,,BBG01S2RQNR7,2025-09-18T06:05:34.65678056Z
+AIQ,Global X Funds Global X Artificial Intelligence & Technology ETF,stocks,us,XNAS,ETF,True,usd,0001432353,BBG00KX8KG94,2025-09-18T06:05:34.656780641Z
+AIR,AAR Corp.,stocks,us,XNYS,CS,True,usd,0000001750,BBG000BBGQF1,2025-09-18T06:05:34.656780721Z
+AIRE,reAlpha Tech Corp. Common Stock,stocks,us,XNAS,CS,True,usd,0001859199,BBG015SL9PD1,2025-09-18T06:05:34.656780801Z
+AIRG,"Airgain, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001272842,BBG0026ZDGG4,2025-09-18T06:05:34.656781162Z
+AIRI,Air Industries Group,stocks,us,XASE,CS,True,usd,0001009891,BBG000C8XXR0,2025-09-18T06:05:34.656781242Z
+AIRJ,AirJoule Technologies Corporation Class A Common Stock,stocks,us,XNAS,CS,True,usd,0001855474,BBG014FPNGK5,2025-09-18T06:05:34.656781362Z
+AIRJW,AirJoule Technologies Corporation Warrant,stocks,us,XNAS,WARRANT,True,usd,0001855474,BBG014XDH6X7,2025-09-18T06:05:34.656781442Z
+AIRO,"AIRO Group Holdings, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001927958,BBG01FRGW2W5,2025-09-18T06:05:34.656781522Z
+AIRR,First Trust RBA American Industrial Renaissance ETF,stocks,us,XNAS,ETF,True,usd,0001552740,BBG0063G4FW4,2025-09-18T06:05:34.656781622Z
+AIRS,"AirSculpt Technologies, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001870940,BBG012V27C29,2025-09-18T06:05:34.656781703Z
+AIRT,Air T Inc,stocks,us,XNAS,CS,True,usd,0000353184,BBG000BBH316,2025-09-18T06:05:34.656781783Z
+AIRTP,"Air T, Inc. Air T Funding Alpha Income Trust Preferred Securities",stocks,us,XNAS,PFD,True,usd,0000353184,,2025-09-18T06:05:34.656781863Z
+AIS,VistaShares Artificial Intelligence Supercycle ETF,stocks,us,ARCX,ETF,True,usd,0001722388,BBG01R2TJN20,2025-09-18T06:05:34.656781953Z
+AISP,"Airship AI Holdings, Inc. Class A Common Stock",stocks,us,XNAS,CS,True,usd,0001842566,BBG00ZZNS7C4,2025-09-18T06:05:34.656782033Z
+AISPW,"Airship AI Holdings, Inc. Warrants",stocks,us,XNAS,WARRANT,True,usd,0001842566,BBG010W1PNX6,2025-09-18T06:05:34.656782113Z
+AIT,"Applied Industrial Technologies, Inc.",stocks,us,XNYS,CS,True,usd,0000109563,BBG000BBHHP9,2025-09-18T06:05:34.656782193Z
+AIV,Apartment Investment and Management Company,stocks,us,XNYS,CS,True,usd,0000922864,BBG000DD3510,2025-09-18T06:05:34.656782274Z
+AIVC,Amplify Bloomberg AI Value Chain ETF,stocks,us,ARCX,ETF,True,usd,0001633061,BBG01L6Y1LR4,2025-09-18T06:05:34.656782364Z
+AIVI,WisdomTree International AI Enhanced Value Fund,stocks,us,ARCX,ETF,True,usd,0001350487,BBG000BT3GK2,2025-09-18T06:05:34.656782444Z
+AIVL,WisdomTree U.S. AI Enhanced Value Fund,stocks,us,ARCX,ETF,True,usd,0001350487,BBG000BT2NX4,2025-09-18T06:05:34.656782785Z
+AIXI,XIAO-I Corporation American Depositary Shares,stocks,us,XNAS,ADRC,True,usd,0001935172,BBG01C3DTQ83,2025-09-18T06:05:34.656782865Z
+AIYY,YieldMax AI Option Income Strategy ETF,stocks,us,ARCX,ETS,True,usd,0001924868,BBG01K8MLVZ7,2025-09-18T06:05:34.656782995Z
+AIZ,"Assurant, Inc.",stocks,us,XNYS,CS,True,usd,0001267238,BBG000BZX1N5,2025-09-18T06:05:34.656783075Z
+AIZN,"Assurant, Inc. 5.25% Subordinated Notes due 2061",stocks,us,XNYS,SP,True,usd,0001267238,,2025-09-18T06:05:34.656783155Z
+AJAN,Innovator Equity Defined Protection ETF - 2 Yr to January 2026,stocks,us,BATS,ETF,True,usd,0001415726,BBG01KTTT4N4,2025-09-18T06:05:34.656783235Z
+AJG,Arthur J. Gallagher & Co.,stocks,us,XNYS,CS,True,usd,0000354190,BBG000BBHXQ3,2025-09-18T06:05:34.656783316Z
+AJUL,Innovator Equity Defined Protection ETF - 2 Yr to July 2026,stocks,us,BATS,ETF,True,usd,0001415726,BBG01NJ0PGC1,2025-09-18T06:05:34.656783406Z
+AKA,a.k.a. Brands Holding Corp.,stocks,us,XNYS,CS,True,usd,0001865107,BBG0129CWQ14,2025-09-18T06:05:34.656783486Z
+AKAF,The Frontier Economic Fund,stocks,us,XNYS,ETF,True,usd,,BBG01VS3BCZ6,2025-09-18T06:05:34.656783566Z
+AKAM,Akamai Technologies Inc,stocks,us,XNAS,CS,True,usd,0001086222,BBG000BJQWD2,2025-09-18T06:05:34.656783646Z
+AKAN,Akanda Corp. Common Shares,stocks,us,XNAS,CS,True,usd,0001888014,BBG013GQ5XT8,2025-09-18T06:05:34.656783726Z
+AKBA,"Akebia Therapeutics, Inc.",stocks,us,XNAS,CS,True,usd,0001517022,BBG000R33R00,2025-09-18T06:05:34.656783807Z
+AKO.A,Embotelladora Andina S.A. Series A,stocks,us,XNYS,ADRC,True,usd,0000925261,BBG000J82W71,2025-09-18T06:05:34.656783887Z
+AKO.B,Embotelladora Andina S.A. Series B,stocks,us,XNYS,ADRC,True,usd,0000925261,BBG000DZ2SW8,2025-09-18T06:05:34.656783967Z
+AKR,Acadia Realty Trust,stocks,us,XNYS,CS,True,usd,0000899629,BBG000BJGD54,2025-09-18T06:05:34.656784057Z
+AKRO,"Akero Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001744659,BBG00L9211Y8,2025-09-18T06:05:34.656784798Z
+AKTX,Akari Therapeutics plc ADR (0.01 USD),stocks,us,XNAS,ADRC,True,usd,0001541157,BBG003PMV495,2025-09-18T06:05:34.656784879Z
+AL,Air Lease Corporation,stocks,us,XNYS,CS,True,usd,0001487712,BBG000R3NPZ4,2025-09-18T06:05:34.656784999Z
+ALAB,"Astera Labs, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001736297,BBG00TDKHW99,2025-09-18T06:05:34.656785089Z
+ALAI,Alger AI Enablers & Adopters ETF,stocks,us,ARCX,ETF,True,usd,0001807486,BBG01M13SDZ5,2025-09-18T06:05:34.656785169Z
+ALAR,Alarum Technologies Ltd. American Depositary Share,stocks,us,XNAS,ADRC,True,usd,0001725332,BBG00GVM3KM9,2025-09-18T06:05:34.656785249Z
+ALB,Albemarle Corporation,stocks,us,XNYS,CS,True,usd,0000915913,BBG000BJ26K7,2025-09-18T06:05:34.656785329Z
+ALBT,Avalon GloboCare Corp. Common Stock,stocks,us,XNAS,CS,True,usd,0001630212,BBG008648HM7,2025-09-18T06:05:34.65678541Z
+ALBpA,Albemarle Corporation Depositary Shares each representing a 1/20th interest in a share of 7.25% Series A Mandatory Convertible Preferred Stock,stocks,us,XNYS,SP,True,usd,0000915913,,2025-09-18T06:05:34.65678549Z
+ALC,Alcon Inc. Ordinary Shares,stocks,us,XNYS,CS,True,usd,0001167379,,2025-09-18T06:05:34.65678558Z
+ALCO,Alico Inc,stocks,us,XNAS,CS,True,usd,0000003545,BBG000BBJR57,2025-09-18T06:05:34.65678566Z
+ALCY,Alchemy Investments Acquisition Corp 1 Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001901336,,2025-09-18T06:05:34.65678574Z
+ALCYU,Alchemy Investments Acquisition Corp 1 Units,stocks,us,XNAS,UNIT,True,usd,0001901336,,2025-09-18T06:05:34.65678582Z
+ALCYW,Alchemy Investments Acquisition Corp 1 Warrants,stocks,us,XNAS,WARRANT,True,usd,0001901336,,2025-09-18T06:05:34.656785901Z
+ALDF,Aldel Financial II Inc. Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0002031561,,2025-09-18T06:05:34.656785981Z
+ALDFU,Aldel Financial II Inc. Units,stocks,us,XNAS,UNIT,True,usd,0002031561,,2025-09-18T06:05:34.656786061Z
+ALDFW,Aldel Financial II Inc. Warrants,stocks,us,XNAS,WARRANT,True,usd,0002031561,,2025-09-18T06:05:34.656786291Z
+ALDX,"Aldeyra Therapeutics, Inc.",stocks,us,XNAS,CS,True,usd,0001341235,BBG0029H8ZF6,2025-09-18T06:05:34.656786371Z
+ALE,"ALLETE, Inc.",stocks,us,XNYS,CS,True,usd,0000066756,BBG000CYW7N5,2025-09-18T06:05:34.656786502Z
+ALEC,"Alector, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001653087,BBG00N0PL198,2025-09-18T06:05:34.656786582Z
+ALEX,"Alexander & Baldwin, Inc.",stocks,us,XNYS,CS,True,usd,0001545654,BBG00HS2GVL8,2025-09-18T06:05:34.656786662Z
+ALF,Centurion Acquisition Corp. Class A Ordinary Shares,stocks,us,XNAS,CS,True,usd,0002010930,,2025-09-18T06:05:34.656786742Z
+ALFUU,Centurion Acquisition Corp. Unit,stocks,us,XNAS,UNIT,True,usd,0002010930,,2025-09-18T06:05:34.656786822Z
+ALFUW,Centurion Acquisition Corp. Warrant,stocks,us,XNAS,WARRANT,True,usd,0002010930,,2025-09-18T06:05:34.656786902Z
+ALG,"Alamo Group, Inc.",stocks,us,XNYS,CS,True,usd,0000897077,BBG000BJTZX0,2025-09-18T06:05:34.656786983Z
+ALGM,"Allegro MicroSystems, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0000866291,BBG00H5S8391,2025-09-18T06:05:34.656787063Z
+ALGN,Align Technology Inc,stocks,us,XNAS,CS,True,usd,0001097149,BBG000BRNLL2,2025-09-18T06:05:34.656787143Z
+ALGS,"Aligos Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001799448,BBG00QX7QH68,2025-09-18T06:05:34.656787233Z
+ALGT,Allegiant Travel Company,stocks,us,XNAS,CS,True,usd,0001362468,BBG000LJS6B8,2025-09-18T06:05:34.656787313Z
+ALHC,"Alignment Healthcare, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001832466,BBG00ZJ0DSR6,2025-09-18T06:05:34.656787393Z
+ALIL,Argent Focused Small Cap ETF,stocks,us,XNAS,ETF,True,usd,,BBG01TCJ00K7,2025-09-18T06:05:34.656787474Z
+ALIT,"Alight, Inc.",stocks,us,XNYS,CS,True,usd,0001809104,BBG00H00J2N1,2025-09-18T06:05:34.656787554Z
+ALK,"Alaska Air Group, Inc.",stocks,us,XNYS,CS,True,usd,0000766421,BBG000BBL0Y1,2025-09-18T06:05:34.656787814Z
+ALKS,Alkermes Inc. plc,stocks,us,XNAS,CS,True,usd,0001520262,,2025-09-18T06:05:34.656787894Z
+ALKT,"Alkami Technology, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001529274,BBG005HTCT54,2025-09-18T06:05:34.656788015Z
+ALL,The Allstate Corporation,stocks,us,XNYS,CS,True,usd,0000899051,BBG000BVMGF2,2025-09-18T06:05:34.656788105Z
+ALLE,Allegion Public Limited Company,stocks,us,XNYS,CS,True,usd,0001579241,,2025-09-18T06:05:34.656788175Z
+ALLO,"Allogene Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001737287,BBG00KHRRDX3,2025-09-18T06:05:34.656788395Z
+ALLR,"Allarity Therapeutics, Inc. Common Stock",stocks,us,XNAS,CS,True,usd,0001860657,BBG012NXCZP8,2025-09-18T06:05:34.656788475Z
+ALLT,Allot Ltd. Ordinary Shares,stocks,us,XNAS,CS,True,usd,0001365767,,2025-09-18T06:05:34.656788596Z
